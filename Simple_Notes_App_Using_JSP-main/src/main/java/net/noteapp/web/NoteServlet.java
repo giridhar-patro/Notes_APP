@@ -14,12 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import net.noteapp.data.NoteDATA;
 import net.noteapp.model.Note;
 
-/**
- * ControllerServlet.java
- * This servlet acts as a page controller for the application, handling all
- * requests from the note.
- * @title Muhammad Daffa Ashdaqfillah
- */
+
 
 @WebServlet("/")
 public class NoteServlet extends HttpServlet {
